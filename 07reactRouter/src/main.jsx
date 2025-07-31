@@ -33,7 +33,6 @@ const router = createBrowserRouter([
         element: <User />
       },
       {
-        loader:{githubinfoloader},
         path: '/github',
         element: <Github />
       }
