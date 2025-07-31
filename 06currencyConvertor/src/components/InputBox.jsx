@@ -6,7 +6,7 @@ function InputBox({
   onAmountChange,
   onCurrencyChange,
   currencyOptions = [],
-  selectCurrency = "USD", // ✅ default uppercase
+  selectCurrency = "USD", //  default uppercase
   amountDisable = false,
   currencyDisable = false,
   className = "",
